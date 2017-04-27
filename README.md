@@ -1,5 +1,4 @@
 # planets
-nothing really
 
 Planets of the Solar System
 
