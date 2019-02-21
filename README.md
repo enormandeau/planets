@@ -6,7 +6,7 @@ Planets of the Solar System
 
 This repository is used by the 
 <a href="http://github.com/enormandeau/github_tutorial" target="_blank">
-Unofficial Introduction to GitHub for Scientists</a>
+Unofficial Introduction to Git and GitHub</a>
 as an example of how to
 use git and GitHub to track and commit changes.
 
