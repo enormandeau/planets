@@ -17,7 +17,7 @@ installed.
 
 Head over to the
 <a href="http://github.com/enormandeau/github_tutorial" target="_blank">
-Unofficial Introduction to GitHub for Scientists</a>
+Unofficial Introduction to Git and GitHub</a>
 and follow the tutorial step by step. The `Planets` repository is used as a
 template project. You will add planets to the `data` folder and modify the
 `planets.sh` script so that it displays information about the planets.
