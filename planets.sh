@@ -13,6 +13,6 @@ cat data/Earth
 echo
 
 ## Add other planets here
-echo "Mars:"
-cat data/Mars
+echo "Saturn:"
+cat data/Saturn
 echo
